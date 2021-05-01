@@ -9,13 +9,13 @@ const styles=StyleSheet.create({
 
     },
     image:{
-        flex:0.7,
+        flex:0.3,
         justifyContent:'center'
     },
     title:{
         fontWeight:'800',
         fontSize:28,
-        marginBottom:10,
+        marginBottom:5,
         color:'#8CD5B7',
         textAlign:'center'
     },
@@ -23,7 +23,7 @@ const styles=StyleSheet.create({
         fontWeight:'800',
         color:'#2C2940',
         textAlign:'center',
-        paddingHorizontal:64,
+        paddingHorizontal:30,
     }
 })
 

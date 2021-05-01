@@ -4,6 +4,8 @@ import styles from "./styles";
 import slides from ".././Data/onboardingslide";
 import OnBoardingItem from "../OnBoardingItem";
 import Paginator from "../Paginator";
+import NextButton from "../NextButton"
+
 
 const OnBoarding = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -39,6 +41,7 @@ const OnBoarding = () => {
         />
       </View>
       <Paginator data={slides} scrollX={scrollX}/>
+      <NextButton percentage={(currentIndex+1)*(100/slides.length)}/>
     </View>
   );
 };
