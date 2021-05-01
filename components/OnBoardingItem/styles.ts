@@ -16,7 +16,7 @@ const styles=StyleSheet.create({
         fontWeight:'800',
         fontSize:28,
         marginBottom:10,
-        color:'#2C2940',
+        color:'#8CD5B7',
         textAlign:'center'
     },
     description:{
