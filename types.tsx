@@ -13,9 +13,12 @@ export type BottomTabParamList = {
   Puberty: undefined;
   TabOne: undefined;
   TabTwo: undefined;
+  Sda:undefined;
 };
 
 export type TabOneParamList = {
+  Puberty:undefined;
+  Sda:undefined;
   TabOneScreen: undefined;
 };
 

@@ -20,6 +20,7 @@ export default function App() {
       
       <SafeAreaProvider>
         <Navigation colorScheme={colorScheme} />
+  
         <Smiley/>
         <StatusBar />
         
