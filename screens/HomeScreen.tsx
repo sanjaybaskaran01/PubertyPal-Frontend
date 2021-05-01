@@ -25,8 +25,8 @@ export default function HomeScreen() {
   }
   return (
     <View style={styles.container}>
-      {/* <OnBoarding/> */}
-      <TouchableHighlight onPress={onPubertyPress} style={styles.Button} >
+      <OnBoarding/>
+      {/* <TouchableHighlight onPress={onPubertyPress} style={styles.Button} >
 
         <View style={styles.Button} >
           <Text style={styles.title}>Understanding Puberty</Text>
@@ -36,7 +36,7 @@ export default function HomeScreen() {
       <View style={styles.Button}>
         <Text style={styles.title}>Small Doable Actions</Text>
       </View>
-      </TouchableHighlight>
+      </TouchableHighlight> */}
     </View>
   );
 }
