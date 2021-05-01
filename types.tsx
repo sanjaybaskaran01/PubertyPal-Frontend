@@ -9,6 +9,8 @@ export type RootStackParamList = {
 };
 
 export type BottomTabParamList = {
+  "Understanding Puberty":undefined;
+  Puberty: undefined;
   TabOne: undefined;
   TabTwo: undefined;
 };

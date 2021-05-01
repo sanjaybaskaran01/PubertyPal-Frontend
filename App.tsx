@@ -5,6 +5,8 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import useCachedResources from './hooks/useCachedResources';
 import useColorScheme from './hooks/useColorScheme';
 import Navigation from './navigation';
+import Smiley from './components/Smiley'
+import OnBoarding from './components/OnBoarding'
 
 export default function App() {
   const isLoadingComplete = useCachedResources();
@@ -13,10 +15,14 @@ export default function App() {
   if (!isLoadingComplete) {
     return null;
   } else {
+    
     return (
+      
       <SafeAreaProvider>
         <Navigation colorScheme={colorScheme} />
+        <Smiley/>
         <StatusBar />
+        
       </SafeAreaProvider>
     );
   }
