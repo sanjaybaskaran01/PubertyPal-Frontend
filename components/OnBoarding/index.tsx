@@ -1,15 +1,16 @@
 import React from 'react'
-import { Text, View } from 'react-native';
+import { FlatList, Text, View } from 'react-native';
 import styles from './styles'
-
-
+import slides from '.././Data/onboardingslide'
+import OnBoardingItem from '../OnBoardingItem'
 const OnBoarding=()=>{
 
     return(
         <View>
-            <Text>
-                Checking
-            </Text>
+            <FlatList
+            data={slides}
+            renderItem={({item})=><OnBoardingItem item={item}/>
+            />
         </View>
 
     );
