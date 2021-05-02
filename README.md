@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/logo.png" alt="Logo" width="80" height="80">
+    <img src="Designs/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">PubertyPal!</h3>
