@@ -37,16 +37,9 @@
         <li><a href="#designed-with">Designed With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#Demo">Demo</a></li>
     <li><a href="#Team">Team</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -110,7 +103,8 @@ PubertyPal is an app that is aimed at resolving these issues. It answers all the
 
 
 
-
+## Demo
+[YouTube](https://youtu.be/iuUWvDPpCeY)
 
 
 
