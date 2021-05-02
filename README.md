@@ -115,7 +115,7 @@ PubertyPal is an app that is aimed at resolving these issues. It answers all the
 ## Team
 
 <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/teamlogo.jpeg" alt="The Trinity Alliance">
+    <img src="Designs/teamlogo.jpeg" alt="The Trinity Alliance" height="125" width="125">
   </a>
 
 
