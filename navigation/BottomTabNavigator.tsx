@@ -21,6 +21,7 @@ const BottomTab = createBottomTabNavigator<BottomTabParamList>();
 export default function BottomTabNavigator() {
   const colorScheme = useColorScheme();
 
+
   return (
     <BottomTab.Navigator
       initialRouteName="TabOne"
@@ -48,6 +49,7 @@ function TabBarIcon(props: { name: React.ComponentProps<typeof Ionicons>['name']
 const TabOneStack = createStackNavigator<TabOneParamList>();
 
 function TabOneNavigator() {
+  
   return (
     <TabOneStack.Navigator>
       <TabOneStack.Screen

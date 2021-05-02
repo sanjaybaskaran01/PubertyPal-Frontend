@@ -12,6 +12,7 @@ export default[
     },
     {
         id:'3',
-        image:require('../../assets/images/tap.png')
+        title:'Tap your pal',
+        image:require('../../assets/images/withouttext.png')
     },
 ]
