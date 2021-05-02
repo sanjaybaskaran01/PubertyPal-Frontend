@@ -88,22 +88,22 @@ PubertyPal is an app that is aimed at resolving these issues. It answers all the
 <!-- USAGE EXAMPLES -->
 ## Usage
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/Screenshots/1.png" alt="Logo" width="80" height="80">
+    <img src="Designs/DEMO/Screenshots/1.png" alt="Logo" width="80" height="80">
   </a>
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/Screenshots/2.png" alt="Logo" width="80" height="80">
+    <img src="Designs/DEMO/Screenshots/2.png" alt="Logo" width="80" height="80">
   </a>
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/Screenshots/3.png" alt="Logo" width="80" height="80">
+    <img src="Designs/DEMO/Screenshots/3.png" alt="Logo" width="80" height="80">
   </a>
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/Screenshots/4.png" alt="Logo" width="80" height="80">
+    <img src="Designs/DEMO/Screenshots/4.png" alt="Logo" width="80" height="80">
   </a>
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/Screenshots/5.png" alt="Logo" width="80" height="80">
+    <img src="Designs/DEMO/Screenshots/5.png" alt="Logo" width="80" height="80">
   </a>
   <a href="https://github.com/sanjaybaskaran01/PubertyPal-Frontend">
-    <img src="Designs/Screenshots/6.png" alt="Logo" width="80" height="80">
+    <img src="Designs/DEMO/Screenshots/6.png" alt="Logo" width="80" height="80">
   </a>
 
 
