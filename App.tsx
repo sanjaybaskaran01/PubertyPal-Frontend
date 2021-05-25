@@ -34,8 +34,7 @@ export default function App() {
     return (
       <SafeAreaProvider>
         <Navigation colorScheme={colorScheme} />
-        <StatusBar />
-        <Smiley/>
+        <StatusBar hidden={true}/>
         
         
       </SafeAreaProvider>

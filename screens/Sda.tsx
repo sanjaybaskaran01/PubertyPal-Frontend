@@ -1,11 +1,14 @@
 import React from 'react'
-import { Text } from 'react-native'
+import { Text, View } from 'react-native'
 
 const Sda=()=>{
     return(
-        <Text>
+        <View>
+            <Text>
             Hello this is SDA Tab
         </Text>
+        </View>
+        
     )
 }
 

@@ -3,10 +3,10 @@ import * as React from "react";
 import { useState } from "react";
 import { StyleSheet } from "react-native";
 import { TouchableHighlight } from "react-native-gesture-handler";
-
-import EditScreenInfo from "../components/EditScreenInfo";
 import OnBoarding from "../components/OnBoarding";
+import EditScreenInfo from "../components/EditScreenInfo";
 import { Text, View } from "../components/Themed";
+import Smiley from "../components/Smiley";
 
 
 export default function HomeScreen() {
@@ -25,8 +25,8 @@ export default function HomeScreen() {
   }
   return (
     <View style={styles.container}>
-      <OnBoarding/>
-      {/* <TouchableHighlight onPress={onPubertyPress} style={styles.Button} >
+        <Smiley/>
+      <TouchableHighlight onPress={onPubertyPress} style={styles.Button} >
 
         <View style={styles.Button} >
           <Text style={styles.title}>Understanding Puberty</Text>
@@ -36,7 +36,7 @@ export default function HomeScreen() {
       <View style={styles.Button}>
         <Text style={styles.title}>Small Doable Actions</Text>
       </View>
-      </TouchableHighlight> */}
+      </TouchableHighlight>
     </View>
   );
 }
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
   // #81BCBB
   Button: {
-    backgroundColor: "#8CD5B7",
+    backgroundColor: "gray",
     margin: 10,
     width: 225,
     height: 75,
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 20,
-    color: "black",
+    color: "white",
     fontWeight: "bold",
   },
 });

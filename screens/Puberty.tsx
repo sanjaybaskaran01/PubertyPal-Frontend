@@ -2,12 +2,14 @@ import * as React from 'react';
 import { StyleSheet } from 'react-native';
 
 import EditScreenInfo from '../components/EditScreenInfo';
+import Smiley from '../components/Smiley';
 import { Text, View } from '../components/Themed';
 
 const Puberty=()=> {
     
   return (
     <View style={styles.container}>
+    <Smiley/>
       <Text style={styles.title}>Tab Two</Text>
     </View>
   );
